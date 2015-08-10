@@ -1,0 +1,36 @@
+﻿<sounds>
+	<files>
+		<fxs>
+			<bomb volume="100" />
+			<boss_explosion volume="100" />
+			<boss_shoot volume="100" />
+			<click volume="100" />
+			<enemy_explosion volume="100" />
+			<enemy_shoot volume="100" />
+			<loselife volume="100" />
+			<player_explosion volume="100" />
+			<player_shoot volume="100" />
+			<powerup_bomb volume="100" />
+			<powerup_firePower volume="100" />
+			<powerup_fireUpgrade volume="100" />
+			<powerup_life volume="100" />
+			<powerup_special volume="100" />
+			<special volume="100" />
+		</fxs>
+		<musics>
+			<boss_loop0 volume="100" />
+			<boss_loop1 volume="100" />
+			<boss_loop2 volume="100" />
+			<gameover_jingle volume="100" />
+			<level_loop volume="100" />
+			<ui_loop volume="100" />
+			<win_jingle volume="100" />
+		</musics>
+	</files>
+	<groups>
+		<general volume="100">
+			<fxs volume="75" />
+			<musics volume="75" />
+		</general>
+	</groups>
+</sounds>

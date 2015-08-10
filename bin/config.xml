@@ -1,0 +1,26 @@
+<system>
+
+	<!-- version -->
+	<version type="String">0.1.0</version>
+
+	<!-- options de debug -->
+	<cheat type="Boolean">false</cheat>
+	<fps type="Boolean">false</fps>
+	<debug type="Boolean">false</debug>
+	<boxAlpha type="Number">0.3</boxAlpha>
+		
+	<!-- languages -->
+	<langPath type="String">localization/</langPath>
+	<language type="String"></language>
+    <languages type="Array">en,fr</languages>
+	
+	<bob type="Array">5,4,3</bob>
+	
+	<!-- controls -- >
+	<control_left type="String">a</control_left>
+	<control_right type="String">d</control_right>
+	<control_up type="String">w</control_up>
+	<control_down type="String">s</control_down>
+	<control_action type="String">space</control_action>-->
+
+</system>
